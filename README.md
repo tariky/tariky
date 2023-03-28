@@ -3,7 +3,7 @@
 - 👀 I’m interested in JavaScript/TypeScript ecosystem
 - 🧠 My toolbox - React § NodeJS § TypeScript
 - 💞️ I’m looking to collaborate on interesting JS/TS projects
-- 💼 Present job: CEO at Lunatik.io
+- 💼 Present job: CEO at Lunatik
 - 📫 How to reach me - tarik@lunatik.ba
 
 ## 🧑🏽‍💻 Work setup
