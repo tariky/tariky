@@ -1,5 +1,5 @@
 ## ⚡️ Bio
-- 👋 Hi, I’m Tarik (28y)
+- 👋 Hi, I’m Tarik (29y)
 - 👀 I’m interested in JavaScript/TypeScript ecosystem
 - 🧠 My toolbox - React § NodeJS § TypeScript
 - 💞️ I’m looking to collaborate on interesting JS/TS projects
@@ -9,7 +9,7 @@
 ## 🧑🏽‍💻 Work setup
 - 💻 MacBook Pro 14' 2021 (2022)
 - 🎧 Audio Tehnica M40X (2016)
-- 🖥 LG 4k monitor (2022)
+- 🖥 Dell 27inch 4k U2720Q (2023)
 
 
 
