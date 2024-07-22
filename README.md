@@ -1,5 +1,5 @@
 ## ⚡️ Bio
-- 👋 Hi, I’m Tarik (29y)
+- 👋 Hi, I’m Tarik (30y)
 - 👀 I’m interested in JavaScript/TypeScript ecosystem
 - 🧠 My toolbox - React § NodeJS § TypeScript
 - 💞️ I’m looking to collaborate on interesting JS/TS projects
